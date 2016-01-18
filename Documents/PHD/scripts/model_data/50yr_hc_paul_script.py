@@ -1,5 +1,5 @@
 #Move into the directory on the network drive we copied the files to (assuming Diane has given you access)
-cd /data/NAS-geo01/ph290/sarah/50_year_hindcast_v2/annual_av
+cd /data/localdata/sh544/50_year_hindcast_v2/annual_av
 
 #Launch python (once you've installed iris - https://wiki.exeter.ac.uk/display/HalloranResearchMain/Installing+Python+Iris+Cartopy+on+Ubuntu)
 python2.7
